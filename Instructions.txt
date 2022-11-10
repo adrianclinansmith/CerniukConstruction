@@ -1,3 +1,0 @@
-- Do a website for Melran Mall Limited 
-- Tenants can sign-in and check the status of various things related to their rent in the mall.  
-- Front end: React 
