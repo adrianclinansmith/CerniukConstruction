@@ -1,7 +1,9 @@
 ## Features
 
 - Create a website for Melran Mall Limited (Condo Corp?) 
-- Owners can sign-in and check the status of various things related to their ownership in the mall.  
+- Owners can sign-in and check the status of various things related to their ownership in the mall.
+- Book time for advertisement sign at the front, maximum 3 separate signs at a time.   
+- Calender for booking
 
 ## Technologies
 
