@@ -11,7 +11,7 @@
 - **Back-end:** AWS Amplify 
 - **Dev packages:**  TODO Tree 
 
-## Tech Links
+## Tech Tutorials
 
 > Best tech stack for web developers in 2022: https://www.youtube.com/watch?v=OpW7E3yz5EY
 > Build a fullstack React app with Amplify: https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/
