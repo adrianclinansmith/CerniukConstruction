@@ -17,6 +17,7 @@
 > Build a fullstack React app with Amplify: https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/
 > TODO Tree: https://dev.to/eclecticcoding/todo-list-in-vscode-2mnb
 > AWS Amplify Authentication System in React App: https://www.youtube.com/watch?v=wGg-c63DLak 
+> How to quickly develop your backend with AWS Amplify: https://www.youtube.com/watch?v=CoZdhEr3s7w
 
 ## Example Sites
 
