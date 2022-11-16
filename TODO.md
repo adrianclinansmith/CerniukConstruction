@@ -7,7 +7,7 @@
 
 ## Technologies
 
-- **Front-end:** React and Bootstrap or TailwindCSS
+- **Front-end:** React and Bootstrap, TailwindCSS, or Mantine
 - **Back-end:** AWS Amplify 
 - **Dev packages:**  TODO Tree 
 
