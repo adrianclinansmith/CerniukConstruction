@@ -25,6 +25,7 @@
 > MetalWorks: https://metalworksresidents.buildinglink.com/v2/Tenant/Home/DefaultNew.aspx
 > Canadian Condominium Institute: https://www.cci.ca
 
-## Sites with good design
+## Web Design Examples
 
 > Top 5 sites: https://www.youtube.com/watch?v=AmHEfTSBXiY
+> 11 best designed sites of 2022: https://www.websitebuilderexpert.com/designing-websites/best-designed-websites/
