@@ -9,7 +9,7 @@
 
 - **Front-end:** React and Bootstrap, TailwindCSS, or Mantine
 - **Back-end:** AWS Amplify 
-- **Dev packages:**  TODO Tree 
+- **Dev packages:**  TODO Tree, look into debuggers
 
 ## Tech Tutorials
 
@@ -19,7 +19,7 @@
 > AWS Amplify Authentication System in React App: https://www.youtube.com/watch?v=wGg-c63DLak 
 > How to quickly develop your backend with AWS Amplify: https://www.youtube.com/watch?v=CoZdhEr3s7w
 
-## Condo Corp Sites
+## Condo Corp Websites
 
 > MF Property Management: https://www.mfproperty.com
 > MetalWorks: https://metalworksresidents.buildinglink.com/v2/Tenant/Home/DefaultNew.aspx
