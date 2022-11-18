@@ -24,3 +24,7 @@
 > MF Property Management: https://www.mfproperty.com
 > MetalWorks: https://metalworksresidents.buildinglink.com/v2/Tenant/Home/DefaultNew.aspx
 > Canadian Condominium Institute: https://www.cci.ca
+
+## Sites with good design
+
+> Top 5 sites: https://www.youtube.com/watch?v=AmHEfTSBXiY
