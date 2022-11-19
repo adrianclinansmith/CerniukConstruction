@@ -29,3 +29,4 @@
 
 > Top 5 sites: https://www.youtube.com/watch?v=AmHEfTSBXiY
 > 11 best designed sites of 2022: https://www.websitebuilderexpert.com/designing-websites/best-designed-websites/
+> 20 Color Combinations to Create an Awesome Web Design: https://businesslabs.org/learning-rooms/20-color-combinations-in-web-design/ 
