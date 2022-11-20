@@ -18,6 +18,7 @@
 > TODO Tree: https://dev.to/eclecticcoding/todo-list-in-vscode-2mnb
 > AWS Amplify Authentication System in React App: https://www.youtube.com/watch?v=wGg-c63DLak 
 > How to quickly develop your backend with AWS Amplify: https://www.youtube.com/watch?v=CoZdhEr3s7w
+> Learn Material UI in One Hour - React Material UI Project Tutorial: https://www.youtube.com/watch?v=Xoz31I1FuiY
 
 ## Condo Corp Websites
 
