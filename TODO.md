@@ -7,7 +7,7 @@
 
 ## Technologies
 
-- **Front-end:** React and Bootstrap, TailwindCSS, Mantine, or Material Design
+- **Front-end:** React and Bootstrap, TailwindCSS, Mantine, or Material UI (MUI)
 - **Back-end:** AWS Amplify 
 - **Dev packages:**  TODO Tree, look into debuggers
 
